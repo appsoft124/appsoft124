@@ -1,7 +1,12 @@
 appsoft124/README.md
-👋 Hi, I’m Riasat Ali
-23 y/o
-👀 I’m interested in Coding
-🌱 I’m currently learning Kotlin Android after getting knowledge from Java Android
-💞️ I’m looking to collaborate on Android Native App Developement both Kotlin and Java
-📫 How to reach me :itsolutions.infoe@gmail.com
+👋 Hi, I'm Riasat Ali
+
+👨‍💻 With 7 years of expertise in Android mobile app development
+
+🌟 Experienced in Java and Kotlin for Android development
+
+📱 Passionate about crafting innovative and user-friendly native Android apps
+
+💼 Open to collaboration on Android Native App Development projects
+
+💌 Reach out to me at: itsolutions.infoe@gmail.com
